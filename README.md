@@ -130,7 +130,10 @@ This repository includes practical assignments on:
 ├── Day-06
 ├── Day-07
 ├── Day-08
-├── Assignments
+├── Assignments-01
+├── Assignments-
+├── Assignments-
+├── Assignments-
 ├── Practice
 └── README.md
 ```
