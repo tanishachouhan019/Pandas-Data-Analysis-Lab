@@ -131,7 +131,7 @@ This repository includes practical assignments on:
 ├── Day-07
 ├── Day-08
 ├── Assignments-01
-├── Assignments-
+├── Assignments-02 & 03
 ├── Assignments-
 ├── Assignments-
 ├── Practice
