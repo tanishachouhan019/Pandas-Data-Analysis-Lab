@@ -132,10 +132,9 @@ This repository includes practical assignments on:
 ├── Day-08
 ├── Assignments-01
 ├── Assignments-02 & 03
-├── Assignments-00000000000
-├── Assignments-0000
+├── Assignments-04
+├── Assignments-00
 ├── Assignments-06
-├── Practice
 └── README.md
 ```
 
