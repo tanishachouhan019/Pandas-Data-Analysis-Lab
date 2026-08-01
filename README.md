@@ -136,7 +136,7 @@ This repository includes practical assignments on:
 ├── Assignments-05
 ├── Assignments-06
 ├── Assignments-0
-├── Assignm
+├── Assignments - Data Cleaning
 └── README.md
 ```
 
